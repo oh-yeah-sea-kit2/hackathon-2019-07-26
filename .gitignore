@@ -1,0 +1,7 @@
+# モデルを除外
+
+app/sample/Motion/assets/
+app/sample/Simple/assets/
+
+
+
