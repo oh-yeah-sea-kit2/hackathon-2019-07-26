@@ -1,0 +1,15 @@
+{
+  "name": "desktop-mascot",
+  // "main": "sample/Simple/index.html",
+  "main": "sample/Motion/index.html",
+  "window": {
+    "title": "",            // タイトルなし
+    "width": 512,           // 幅
+    "height": 512,          // 高さ
+    "transparent": true,    // 透過
+    "toolbar": false,       // ツールバーを非表示に
+    "frame": false,         // フレームを非表示に
+    "resizable": false,     // ウィンドウのリサイズを無効化
+    "always-on-top": true   // 常に最前面に表示させる,
+  }
+}
